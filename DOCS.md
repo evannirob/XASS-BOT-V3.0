@@ -78,7 +78,7 @@ await usersData.set(4, {
 const userData = await usersData.get(userID);
 userData.data.relationship.lover = {
 	name: "ABC",
-	birthday: "01/01/1999"
+	birthday: "22/06/2006"
 };
 await usersData.set(4, {
 	data: userData.data
