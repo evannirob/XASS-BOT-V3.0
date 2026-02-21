@@ -11,7 +11,7 @@ module.exports = {
       en: "Vibey Bot info with Xass-EvAn sauce."
     },
     longDescription: {
-      en: "Displays bot stats with BaYjid coding & Xass swag."
+      en: "Displays bot stats with EvAn coding & SCS Hunter."
     },
     category: "Info",
     guide: {
