@@ -2,8 +2,8 @@
 
 <h1 align="center">
   <img src="./dashboard/images/logo-non-bg.png" width="30px">
-  <strong>𝐁𝐀𝐘𝐉𝐈𝐃 - XASS BOT</strong> 🤍<br>
-  <sub>By MOHAMMAD BAYJID | Messenger Chat Bot</sub>
+  <strong>𝑬𝒗𝑨𝒏☢️ - SCS BOT</strong> 🤍<br>
+  <sub>By EVAN AHMED | Messenger Chat Bot</sub>
 </h1>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ## 🛠️ Bot Info
 
-> **XASS** is a powerful Messenger ChatBot built with Node.js. It comes with several features like:
+> **SCS** is a powerful Messenger ChatBot built with Node.js. It comes with several features like:
 - Auto-reply to messages
 - Group moderation
 - Image/media handling
