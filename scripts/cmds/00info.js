@@ -5,10 +5,10 @@ module.exports = {
     name: "botinfo",
     aliases: ["info", "btinfo"],
     version: "2.1",
-    author: "BaYjid",
+    author: "EvAn",
     role: 0,
     shortDescription: {
-      en: "Vibey Bot info with Xass-BaYjid sauce."
+      en: "Vibey Bot info with Xass-EvAn sauce."
     },
     longDescription: {
       en: "Displays bot stats with BaYjid coding & Xass swag."
@@ -58,8 +58,8 @@ module.exports = {
 
       api.sendMessage(
 `╭─ <𝐁𝐎𝐓 𝐈𝐍𝐅𝐎> ─╮
-│ 👑 𝐎𝐰𝐧𝐞𝐫: 𝐁𝐚𝐘𝐣𝐢𝐝
-│ ⚙️ 𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲: 𝐗𝐚𝐬𝐬 𝐁𝐚𝐘𝐣𝐢𝐝
+│ 👑 𝐎𝐰𝐧𝐞𝐫: 𝑬𝒗𝑨𝒏☢️_𖣘 -
+│ ⚙️ 𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲: SCS-EVAN 🪻🪽‎‎🪼
 │ 📍 𝐑𝐞𝐠𝐢𝐨𝐧: 𝐀𝐬𝐢𝐚/𝐃𝐡𝐚𝐤𝐚
 │ 🧬 𝐒𝐭𝐚𝐭𝐮𝐬: ${botStatus}
 ├──────────
